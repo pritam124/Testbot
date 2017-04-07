@@ -1,0 +1,52 @@
+E:\BOT\Testbot\Testbot\obj\Debug\Testbot.csprojResolveAssemblyReference.cache
+E:\BOT\Testbot\Testbot\bin\Bot Application.dll.config
+E:\BOT\Testbot\Testbot\bin\Bot Application.dll
+E:\BOT\Testbot\Testbot\bin\Bot Application.pdb
+E:\BOT\Testbot\Testbot\bin\Autofac.dll
+E:\BOT\Testbot\Testbot\bin\Chronic.dll
+E:\BOT\Testbot\Testbot\bin\Microsoft.Bot.Builder.Autofac.dll
+E:\BOT\Testbot\Testbot\bin\Microsoft.Bot.Builder.dll
+E:\BOT\Testbot\Testbot\bin\Microsoft.Bot.Connector.dll
+E:\BOT\Testbot\Testbot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+E:\BOT\Testbot\Testbot\bin\Microsoft.Rest.ClientRuntime.dll
+E:\BOT\Testbot\Testbot\bin\Microsoft.WindowsAzure.Configuration.dll
+E:\BOT\Testbot\Testbot\bin\mscorlib.dll
+E:\BOT\Testbot\Testbot\bin\Newtonsoft.Json.dll
+E:\BOT\Testbot\Testbot\bin\System.IdentityModel.Tokens.Jwt.dll
+E:\BOT\Testbot\Testbot\bin\System.Net.Http.dll
+E:\BOT\Testbot\Testbot\bin\System.Net.Http.Formatting.dll
+E:\BOT\Testbot\Testbot\bin\System.Net.Http.WebRequest.dll
+E:\BOT\Testbot\Testbot\bin\System.Web.Http.dll
+E:\BOT\Testbot\Testbot\bin\System.Web.Http.WebHost.dll
+E:\BOT\Testbot\Testbot\bin\Autofac.xml
+E:\BOT\Testbot\Testbot\bin\Microsoft.Bot.Builder.xml
+E:\BOT\Testbot\Testbot\bin\Microsoft.Bot.Builder.Autofac.xml
+E:\BOT\Testbot\Testbot\bin\Microsoft.Bot.Connector.xml
+E:\BOT\Testbot\Testbot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+E:\BOT\Testbot\Testbot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+E:\BOT\Testbot\Testbot\bin\Microsoft.WindowsAzure.Configuration.xml
+E:\BOT\Testbot\Testbot\bin\Newtonsoft.Json.xml
+E:\BOT\Testbot\Testbot\bin\System.IdentityModel.Tokens.Jwt.pdb
+E:\BOT\Testbot\Testbot\bin\System.IdentityModel.Tokens.Jwt.xml
+E:\BOT\Testbot\Testbot\bin\System.Net.Http.xml
+E:\BOT\Testbot\Testbot\bin\System.Net.Http.Formatting.xml
+E:\BOT\Testbot\Testbot\bin\System.Net.Http.WebRequest.xml
+E:\BOT\Testbot\Testbot\bin\System.Web.Http.xml
+E:\BOT\Testbot\Testbot\bin\System.Web.Http.WebHost.xml
+E:\BOT\Testbot\Testbot\bin\ar\Microsoft.Bot.Builder.resources.dll
+E:\BOT\Testbot\Testbot\bin\cs\Microsoft.Bot.Builder.resources.dll
+E:\BOT\Testbot\Testbot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+E:\BOT\Testbot\Testbot\bin\en\Microsoft.Bot.Builder.resources.dll
+E:\BOT\Testbot\Testbot\bin\es\Microsoft.Bot.Builder.resources.dll
+E:\BOT\Testbot\Testbot\bin\fa\Microsoft.Bot.Builder.resources.dll
+E:\BOT\Testbot\Testbot\bin\fr\Microsoft.Bot.Builder.resources.dll
+E:\BOT\Testbot\Testbot\bin\ja\Microsoft.Bot.Builder.resources.dll
+E:\BOT\Testbot\Testbot\bin\ru\Microsoft.Bot.Builder.resources.dll
+E:\BOT\Testbot\Testbot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+E:\BOT\Testbot\Testbot\bin\normidna.nlp
+E:\BOT\Testbot\Testbot\bin\normnfc.nlp
+E:\BOT\Testbot\Testbot\bin\normnfd.nlp
+E:\BOT\Testbot\Testbot\bin\normnfkc.nlp
+E:\BOT\Testbot\Testbot\bin\normnfkd.nlp
+E:\BOT\Testbot\Testbot\obj\Debug\Bot Application.dll
+E:\BOT\Testbot\Testbot\obj\Debug\Bot Application.pdb
